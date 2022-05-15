@@ -8,6 +8,13 @@ A simple character select using Marvel Heroes
 - CSS
 - JS
 
-## Preview
+## Preview Desktop
+<div align="center">
+   <img src="https://i.ibb.co/V3dK0VC/desktop.png" alt="desktop-preview">       
+</div>
  
-To be added 
+## Preview Mobile
+<div align="center">
+   <img src="https://i.ibb.co/gWF2wPK/mobile.png" alt="mobile-preview">          
+</div>
+
